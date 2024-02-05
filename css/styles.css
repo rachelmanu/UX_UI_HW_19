@@ -370,3 +370,8 @@ input[type=text], input[type=email], select, textarea {
   .hover {
     transform: scale(1.2);
   }
+
+  .socialContent img:hover {
+    opacity: 0.5;
+    background-color: #C4D7B2;
+  }
